@@ -29,10 +29,10 @@ class RegisterViewController: UIViewController {
         FbBtnLogin.layer.masksToBounds = true
         self.view.addSubview(FbBtnLogin)
         
-        emailTextField.layer.cornerRadius = 12.0
+        emailTextField.layer.cornerRadius = 16.0
         emailTextField.layer.masksToBounds = true
         
-        passwordTextField.layer.cornerRadius = 12.0
+        passwordTextField.layer.cornerRadius = 16.0
         passwordTextField.layer.masksToBounds = true
         
         
