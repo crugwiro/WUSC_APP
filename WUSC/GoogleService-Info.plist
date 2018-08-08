@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>95641171918-9cijnr768o1239fa1ktfq6l3dnlsvhao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.95641171918-9cijnr768o1239fa1ktfq6l3dnlsvhao</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdq3KdUkTtqZ8jEwT0TCf2rcz4xxE2DD8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>95641171918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clementrugwiro.wusc</string>
+	<key>PROJECT_ID</key>
+	<string>wusc-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wusc-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:95641171918:ios:54c3f2849ad09f25</string>
+	<key>DATABASE_URL</key>
+	<string>https://wusc-app.firebaseio.com</string>
+</dict>
+</plist>
